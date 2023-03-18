@@ -17,9 +17,9 @@ More to come...
 
 ## Preview
 
-| Podcast                 | Episode                 | Dark Mode                |
-| ----------------------- | ----------------------- | ------------------------ |
-| ![][podcast screenshot] | ![][episode screenshot] | ![][darkmode screenshot] |
+| Overview | Podcats List | Podcat View |
+| -------- | ------------ | ----------- |
+| ![][one] | ![][two]     | ![][three]  |
 
 ## Architecture
 
@@ -76,8 +76,6 @@ src
 
 - Playlist is unstable
 
-[homepage screenshot]: https://raw.githubusercontent.com/stonega/tsacdop/master/preview/1585893838840.png
-[group screenshot]: https://raw.githubusercontent.com/stonega/tsacdop/master/preview/1585894051734.png
-[podcast screenshot]: https://raw.githubusercontent.com/stonega/tsacdop/master/preview/1585893877702.png
-[episode screenshot]: https://raw.githubusercontent.com/stonega/tsacdop/master/preview/1585896237809.png
-[darkmode screenshot]: https://raw.githubusercontent.com/stonega/tsacdop/master/preview/1585893920721.png
+[one]: https://raw.githubusercontent.com/dishankgajera/flutter_podcast/main/preview/one.png
+[two]: https://raw.githubusercontent.com/dishankgajera/flutter_podcast/main/preview/two.png
+[three]: https://raw.githubusercontent.com/dishankgajera/flutter_podcast/main/preview/three.png
